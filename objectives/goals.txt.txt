@@ -1,0 +1,2 @@
+1- Image recognition Model
+2- Non- supervised voice activated Assistant for NIche Tasks (NSVANT)
