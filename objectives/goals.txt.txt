@@ -1,2 +1,3 @@
+0-CCTV SURVELLANCE SYSTEM with AI detection system for invalid garbage
 1- Image recognition Model
 2- Non- supervised voice activated Assistant for NIche Tasks (NSVANT)
