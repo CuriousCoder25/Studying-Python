@@ -1,3 +1,4 @@
+#program to convert celcius to farenheit and vice versa
 for x  in range(331):
     i = int(input("choose 0 for celcius or 1 for Farenheit or 2 for exit"))
     if i==0:
