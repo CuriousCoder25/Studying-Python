@@ -13,5 +13,7 @@ elif x==3:
     print(a/b)
 elif x==4:
     print(a*b)
+else:
+    print("Invalid Input")
 
 
